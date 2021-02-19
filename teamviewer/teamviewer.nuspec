@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>teamviewer</id>
+    <title>Teamviewer (Install)</title>
+    <version>15.14.5</version>
+    <authors>Harika</authors>
+    <owners>Test</owners> <!-- also known as package mantainers -->
+    <description> custom teamviewer package</description>
+ </metadata>
+<files>
+  <file src="tools\**" target="tools" />
+</files>
+</package>
